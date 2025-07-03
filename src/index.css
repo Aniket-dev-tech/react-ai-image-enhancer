@@ -1,1 +1,4 @@
 @import "tailwindcss";
+img:hover {
+  cursor: pointer;
+}
